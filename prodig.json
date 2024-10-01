@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "name":"Blade On Bone",
+    "decription":"Cut from the centre of the blade portion of chuck",
+    "image":"https://dirks.co.za/cdn/shop/products/Blade_grande.png?v=1663745080",
+    "price":680
+  },
+    { 
+        "id":2,
+        "name":"Top Side",
+        "decription":"A lean boneless cut from the top of the inside hind leg",
+       "image":"https://www.shutterstock.com/image-photo/topside-steak-on-bamboo-board-600nw-1904344096.jpg",
+        "price":750
+    },
+    {   
+     "id":3,
+     "name":"Rump Steak",
+     "decription":" It's a lean cut of meat with very little fat",
+     "image":"https://meatcart.co.za/cdn/shop/products/shutterstock_217648108_d2a3c5b6-ac9d-474f-bd82-7fb8775a9ffb_1024x1024.jpg?v=1600322861",
+     "price":750
+    },
+   { 
+    "id":4,
+    "name":"Silver Side",
+    "decription":" A large, lean, boneless cut of meat with a course grained texture",
+    "image":"https://www.northfieldfarm.com/wp-content/uploads/2021/10/a7bd2873-7fbb-43bd-83bf-f25e1ce099d1.jpg",
+    "price":750
+    },
+   {   
+     "id":5,
+     "name":"Beef Cubes",
+     "decription":"Its a pre-tenderous and flavourful cut.",
+     "image":"https://th.bing.com/th/id/R.154b74901b4f3547471004444d03870a?rik=Pg7ITK1NR4xSpg&pid=ImgRaw&r=0",
+     "price":750
+  },
+  {    
+   "id":6,
+   "name":"Standard mince",
+   "decription":"Its a choppy and textured skeletal muscle meat",
+   "image":"https://st2.depositphotos.com/4087771/43038/i/450/depositphotos_430385792-stock-photo-fresh-raw-beef-mince-dark.jpg",
+  "price":680
+},
+      { 
+         "id":7,
+         "name":"Lean mince",
+         "decription":"Its a choppy and textured skeletal muscle meat",
+         "image":"https://st2.depositphotos.com/4087771/43038/i/450/depositphotos_430385792-stock-photo-fresh-raw-beef-mince-dark.jpg",
+      "price":800
+    },
+       { 
+        "id":8,
+        "name":"Liver",
+        "decription":"Its known to be Healthy and nourishing",
+        "image":"https://media.istockphoto.com/id/1225544794/photo/fresh-raw-beef-livers-on-a-black-stone-cutting-board-on-dark-background.jpg?s=612x612&w=0&k=20&c=bZU8VKwyg1Pcj0nGsbPc1LOtawMmv7n_DapmMqvSYqc=",
+        "price":700
+  },
+  {
+    "id":9,
+    "name":"Whole Chicken",
+        "decription":"It utilizes all parts and high quality protein ",
+        "image":"https://www.bowrivermeatmarket.ca/wp-content/uploads/2019/08/Whole-Chicken-Raw-scaled.jpeg",
+        "price":500
+  },
+  {
+    "id":10,
+    "name":"Gizzard",
+        "decription":"they are also great for digestion and are a high source of vitamins",
+        "image":"https://meatapp.lk/cdn/shop/products/Untitleddesign_24.png?v=1677751487&width=1946",
+        "price":650
+  },
+  {
+    "id":11,
+    "name":"Chicken Legs",
+        "decription":"Prescence of iron and zinc are good for the immune system",
+        "image":"https://149422915.v2.pressablecdn.com/wp-content/uploads/2020/04/Quarter-Chicken-Legs-Raw-Richards-Fine-Meats-260-Lakeshore-Road-St-Catharines-ON-289-362-1792-1024x1024.png",
+        "price":650
+  },
+  {
+    "id":14,
+    "name":"Chicken Thighs",
+        "decription":"They contain fat that enhances the taste of it",
+        "image":"https://thevillagebutcher.ie/wp-content/uploads/2020/04/2A6C9BAF-529A-4335-8140-2DBD99394F8B.jpeg",
+        "price":700
+  },
+  {
+    "id":13,
+    "name":"Chicken Breasts",
+    "decription":"A valuable decision for a healthy diet",
+    "image":"https://www.bodybuildingmealplan.com/wp-content/uploads/Chicken-Breast-Protein-Calories-scaled.jpg",
+    "price":780
+  }, 
+  { 
+    "id":12,
+    "name":"Wings",
+        "decription":"They are a delicious good source of lean protein",
+        "image":"https://img.freepik.com/premium-photo/raw-chicken-wings-poultry-meat-marble-board-black-background-top-view-copy-space_89816-29786.jpg",
+        "price":650
+  },
+  
+  {
+    "id":15,
+    "name":"Drumsticks",
+        "decription":" It's a cut of meat that is so delicious and good for one's diet",
+        "image":"https://img.freepik.com/free-photo/raw-chicken-legs-with-parsley-selective-focus_82893-2510.jpg?size=626&ext=jpg",
+        "price":690
+  },
+  {
+    "id":16,
+    "name":"Chicken mince",
+        "decription":"Well cut and luscious in a healthy diet",
+        "image":"https://projectperfecthome.com/wp-content/uploads/2023/02/How-to-store-ground-turkey-in-the-freezer.jpg",
+        "price":850
+  }
+]
